@@ -51,7 +51,7 @@
 | Monsters University | Dan Scanlon |
 | WALL-G | Brenda Chapman |
 
-## 3. Find all the WALL-* movies
+## 4. Find all the WALL-* movies
 
 ## Query
 ```sql
